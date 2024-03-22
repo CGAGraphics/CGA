@@ -6,7 +6,7 @@ Calc++ is undergoing it's fourth revision in Apr feel free to contact me with mo
 
 	  All AD files Are Required for cirten Functions to work
 
-  All the .py files are witen in Python 3.11 most older versions will beincompatable
+  All the .py files are witen in Python 3.11 most older versions will be incompatable
 
 
 
